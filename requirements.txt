@@ -1,0 +1,7 @@
+google-genai==1.62.0
+
+pygame==2.6.1
+
+python-dotenv==1.2.1
+
+pillow==12.1.0
